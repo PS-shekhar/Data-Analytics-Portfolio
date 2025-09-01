@@ -13,7 +13,9 @@ The final output is a 4-page interactive Power BI dashboard, designed for execut
 **Tools Used**
 
 **Power BI** - Data modeling, DAX calculations, interactive dashboards
+
 **Microsoft Excel** - Primary data source
+
 **Power Query** - ETL (Extract, Transform, Load) processes
 
 **Dashboard Walkthrough & Key Insights**
